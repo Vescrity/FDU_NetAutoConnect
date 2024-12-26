@@ -2,7 +2,8 @@
 
 #### 为什么不直接 curl
 
-问就是试过了，不管用
+问就是试过了，不管用  
+改到 .36 后还没试过（
 
 ## 使用
 
@@ -12,8 +13,8 @@
 ```python
 user='123456'
 paswd='123456'
-url='http://10.102.250.13/'
-domain='#domain option[value="unicom-pppoe"]'
+url='http://10.102.250.36/'
+domain_name='中国联通'
 ```
 - venv 下执行 `main.py`
 
